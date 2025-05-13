@@ -1,0 +1,8 @@
+.metadata/
+*.log
+*.class
+target/
+.idea/
+*.iml
+*.swp
+.DS_Store
